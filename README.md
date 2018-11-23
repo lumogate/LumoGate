@@ -6,7 +6,7 @@ LumoGate locks down Internet access to anyone that's not authenticated or has no
 
 Captive Portal is the technology that forces an unauthenticated user on a Wifi Hotspot to login through a browser to have access to the Internet. LumoGate acts as a hotspot firewall and management software that control authentication, bandwidth management, session usage, internet traffic log . LumoGate is the simplest yet complete, intuitive tool to manage your personal hotspot or public Wifi HotSpot in Internet Cafes, Schools, Hotels, Restaurants, etc...
 
-Features
+# Features
 
 - Support windows 7/8/8.1 and 10
 - Start LumoGate on Windows Boot
@@ -59,3 +59,11 @@ We encourage you to support the developers by donating any amount you wish. If y
 * Option to remove inactive user accounts automatically
 
 We also encourage you to suggest new features you would love to see implemented
+
+# About
+
+LumoGate is being actively developed and maintained by Kelvin K. Omolumo.
+
+For further information, or bug reports, please contact:
+
+    lumoenterprise@gmail.com or kelvinomolumo@gmail.com
