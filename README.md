@@ -22,7 +22,7 @@ Features
 
 We encourage you to support the developers by donating any amount you wish. If you love this project and want to see more features and updates please donate. A lot of working hours has been spent making this software. Thank You!
 
-[Click here to Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6WP8UBGUHWKS&source=url)
+[Click Here to Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6WP8UBGUHWKS&source=url)
 
 # Wiki
 
