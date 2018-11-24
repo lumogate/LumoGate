@@ -22,7 +22,7 @@ Captive Portal is the technology that forces an unauthenticated user on a Wifi H
 
 We encourage you to support the developers by donating any amount you wish. If you love this project and want to see more features and updates please donate. A lot of working hours has been spent making this software. Thank You!
 
-[Click Here to Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6WP8UBGUHWKS&source=url)
+[Click Here To Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H6WP8UBGUHWKS&source=url)
 
 # Wiki
 
